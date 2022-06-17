@@ -1,6 +1,6 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/mineda/vue-exame)
 
-# Projeto em branco para Vue.js 2
+# Projeto em Vue.js 2 para exame
 
 ## Project setup
 ```
